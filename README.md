@@ -1,2 +1,2 @@
 # nhangara-mirim-assets
-Nhangara Mirim Game Assets: Characters, Biomes, NFTs, and Visuals
+Nhangara Mirim Game Assets: Characters, Biomes, NFTs, and Visuals elements
